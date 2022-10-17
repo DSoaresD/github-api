@@ -1,0 +1,45 @@
+.result-container {
+    border-radius: 5px;
+    padding: 0px 20px 20px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 100px 0px;
+    height: 330px;
+    width: 1250px;
+    background: #F5F5F5;
+    
+}
+
+.result-container-atributtes {
+  padding-top: 20px;
+  display: block;
+  width: 800px;
+}
+
+.result-container img {
+  width: 207px;
+  height: 207px;
+  margin-top: 60px;
+  margin-right: 30px;
+}
+
+.result-perfil {
+  border: 1px solid #D9D9D9;
+  font-size: 16px;
+}
+
+.result-seguidores {
+  border: 1px solid #D9D9D9;
+  font-size: 16px;
+}
+
+.result-localidade {
+  border: 1px solid #D9D9D9;
+  font-size: 16px;
+}
+
+.result-nome {
+  border: 1px solid #D9D9D9;
+  font-size: 16px;
+}
